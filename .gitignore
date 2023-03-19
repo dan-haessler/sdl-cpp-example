@@ -1,2 +1,6 @@
 SDL2
 build
+main
+maincx.c..c
+main.exe
+SDL2.dll
