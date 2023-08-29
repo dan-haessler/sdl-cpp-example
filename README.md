@@ -4,7 +4,6 @@ Building and compiling an example SDL2 C++ project with G++ and CMake/Make.
 <img src="result.gif" alt="drawing" width="400"/>
 
 ## Windows
----
 
 ### Install
 *  [Download SDL 2.26.4](https://github.com/libsdl-org/SDL/releases)
@@ -19,7 +18,6 @@ Building and compiling an example SDL2 C++ project with G++ and CMake/Make.
 *  `g++ main.cpp -Isdl2/x86_64-w64-mingw32/include/ -Lsdl2/x86_64-w64-mingw32/lib -Wall -lmingw32 -lSDL2main -lSDL2 -o main`
 
 ## Linux 
----
 
 ### Install
 * `sudo apt-get install libsdl2-dev`
